@@ -7,7 +7,7 @@ var templates = [
 define(templates, function (theme, loginForm, program) {
     var plugin = {
         settings: {
-            name: "CU Website",
+            name: "mootes14",
             type: "general",
             menuURL: "#mootes14",
             icon: "plugins/events/icon.png",
