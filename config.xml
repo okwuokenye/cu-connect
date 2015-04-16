@@ -5,14 +5,14 @@
         id        = "net.moodlemoot.mootes14"
         versionCode = "1"
         version   = "1.0">
-    <name>mootes14</name>
+    <name>CU Connect</name>
 
     <description>
-        MoodleMoot Spain 2014 official app
+        CU Connect official app
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://ebukaokwuokenye.com" email="okwuokenye@gmail.com">
+        Ebuka Okwuokenye
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
