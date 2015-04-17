@@ -23,11 +23,7 @@ define(templates, function(theme, feedbackForm) {
                     fullname: MM.site.get('fullname'),
                     profileimageurl: MM.site.get('userpictureurl')
                 },
-                siteurl: MM.site.get('siteurl'),
-                coursePlugins: coursePlugins,
-                courses: courses,
-                plugins: plugins,
-                docsurl: docsurl
+                siteurl: MM.site.get('siteurl')
             };
             var html = MM.tpl.render(feedbackForm, tpl);
             MM.panels.show('center', html, {title: MM.lang.s("feedbackHeader")});
