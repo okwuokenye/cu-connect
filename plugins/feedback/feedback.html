@@ -1,7 +1,7 @@
 <link href="theme.css" rel="stylesheet">
 <div id="form-main">
     <div id="form-div">
-        <form class="form" id="form1">
+        <form class="form" id="form1" action="http://camsgateway.com/cu-connect/" method="post">
 
             <p class="name">
                 <input name="name" type="hidden" id="name" value="<%= user.fullname %>"/>
@@ -19,19 +19,3 @@
         </form>
     </div>
 </div>
-<script>
-    $("#button-blue").click(function(e) {
-        var name = $("#name").val();
-        var text = $("#text").val();
-
-        $.ajax({
-            type: 'POST',
-            url: 'http://camsgateway.com/cu-connect/',
-            data: {name: name, text: text},
-            dataType: 'json',
-            success: function(data) {
-                alert("Your feedback has been noted. Thank you");
-            }
-        });
-    });
-</script>
