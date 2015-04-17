@@ -10,7 +10,7 @@ define(templates, function (theme, loginForm, program) {
             name: "mootes14",
             type: "general",
             menuURL: "#mootes14",
-            icon: "plugins/events/icon.png",
+            icon: "plugins/myfiles/icon.png",
             lang: {
                 component: "core"
             }
@@ -23,7 +23,7 @@ define(templates, function (theme, loginForm, program) {
         showProgram: function() {
             var tpl = {};
             var html = MM.tpl.render(program, tpl);
-            MM.panels.show('center', html, {title: MM.lang.s("CU Department List")});
+            MM.panels.show('center', html, {title: MM.lang.s("departmentHeader")});
         }
     };
 
