@@ -35,7 +35,7 @@ define(templates, function(theme, feedbackForm) {
     };
 
     // Inject allways our custom theme.
-    $("#mobilecssurl").html(theme);
+   // $("#mobilecssurl").html(theme);
     MM.registerPlugin(plugin);
 
 });
