@@ -6,19 +6,44 @@
 },
 "credits": [
 {
+    "fullname": "Professor Ayo Charles. K",
+    "contribution": "Vcie Chancellor",
+    "company": "Covenant University"
+},
+{
+    "fullname": "Dr. Omoregbe Nicholas",
+    "contribution": "Icons and css fixes",
+    "company": "Covenant University"
+},
+{
+    "fullname": "Afolabi Abolade O.",
+    "contribution": "CSIS Director",
+    "company": "Covenant University"
+},
+{
+    "fullname": "Dr. Ambrose Azeta",
+    "contribution": "Project Development Member",
+    "company": "Covenant University"
+},
+{
+    "fullname": "Olopade Ademola Elijah",
+    "contribution": "E-Learning",
+    "company": "Covenant University"
+},
+{
     "fullname": "Chimebuka Okwuokenye",
-    "contribution": "Main developer",
+    "contribution": "System Developer",
     "company": "Chronos Technology"
 },
 {
-    "fullname": "Ikenna Odiakosa",
-    "contribution": "Icons and css fixes",
-    "company": "Sal Lxm"
+    "fullname": "Ikenna Idiakosa",
+    "contribution": "UI Engineer",
+    "company": "Sal Luxem"
 },
 {
-    "fullname": "Mr Demola",
-    "contribution": "Strategic direction",
-    "company": "CSIS"
+    "fullname": "Chukwu Micheal",
+    "contribution": "Assistant System Developer",
+    "company": "Targreen"
 }
 ],
 "thirdpartylibs": [
