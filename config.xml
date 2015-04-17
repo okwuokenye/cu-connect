@@ -5,10 +5,10 @@
         id        = "net.moodlemoot.mootes14"
         versionCode = "1"
         version   = "1.0">
-    <name>CU Connect</name>
+    <name>CU Moodle</name>
 
     <description>
-        CU Connect official app
+        CU Moodle official mobile app
     </description>
 
     <author href="http://ebukaokwuokenye.com" email="okwuokenye@gmail.com">
